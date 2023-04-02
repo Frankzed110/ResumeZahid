@@ -1,1 +1,2 @@
 # ResumeZahid
+<!-- When npx create-next-app is done, we must install tailwind. Get the documenation details from tailwind css website. This will allow you to configure tailwind css into your nextjs framework -->
