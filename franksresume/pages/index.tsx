@@ -1,12 +1,16 @@
 import React from 'react'
 import Header from './component/Header'
 import MainText from './component/MainText'
+import SocialIcons from './component/SocialIcons'
 
 export default function Home() {
   return (
     <>
+ 
    <Header/>
+   <SocialIcons/>
    <MainText/>
+   
    </>
   )
 }
